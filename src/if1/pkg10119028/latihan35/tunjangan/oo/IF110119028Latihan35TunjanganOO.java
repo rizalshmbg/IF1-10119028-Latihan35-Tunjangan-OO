@@ -12,7 +12,7 @@ package if1.pkg10119028.latihan35.tunjangan.oo;
  * KELAS    : IF1
  * NIM      : 10119028
  * Deskripsi Program : Program ini berisi program untuk menampilkan tunjangan
- *                     saldo dengan konsep OOP
+ *                     saldo dengan konsep OO
  */
 public class IF110119028Latihan35TunjanganOO {
 
