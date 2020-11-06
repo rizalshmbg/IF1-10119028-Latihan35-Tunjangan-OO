@@ -51,6 +51,6 @@ public class Tunjangan {
         System.out.printf("Tunjangan\t\t\t: Rp. %.1f%n", tunjangan);
         double totalGaji = gaji + tunjangan;
         System.out.println("Total Gaji\t\t\t: Rp. " + totalGaji);
-        System.out.println("(Developed by : Maulana Imam Malik)");
+        System.out.println("(Developed by : Rizal Sihombing)");
     }
 }
