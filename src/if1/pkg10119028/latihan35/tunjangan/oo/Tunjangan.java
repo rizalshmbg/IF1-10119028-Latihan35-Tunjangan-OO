@@ -14,7 +14,7 @@ import java.util.Scanner;
  * KELAS    : IF1
  * NIM      : 10119028
  * Deskripsi Program : Program ini berisi program untuk menampilkan tunjangan
- *                     saldo dengan konsep OOP
+ *                     saldo dengan konsep OO
  */
 public class Tunjangan {
     
